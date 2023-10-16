@@ -1,2 +1,17 @@
-.box {
+.lilac-box {
+    padding:1rem;
+    color: white;
+    background-color: rgb(137, 137, 207);
+    border: solid 1px white;
+}
+
+.blue-box {
+    padding:1rem;
+    color: white;
+    background-color: rgb(140, 170, 209);
+    border: solid 1px white;
+}
+
+.margin-t2{
+    margin-top: 2rem;
 }
